@@ -1,5 +1,6 @@
 /*
   Created by Pierce Alston on 9/6/2019.
+  Lab 1
   The program's function is to complete a game of battleship using the coordinate
   inputs from the user.
 */
