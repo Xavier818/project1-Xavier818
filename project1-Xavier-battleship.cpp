@@ -10,7 +10,7 @@ using namespace std;
 
 int main() {
     srand(time(0));
-    int row1;
+    int row1;   
     int column1;
     char btlShipArrayDisplay[3][3];  // the array with values of hits and misses
     int btlShipArray[3][3]; // the array with the value that will be randomly replaced
